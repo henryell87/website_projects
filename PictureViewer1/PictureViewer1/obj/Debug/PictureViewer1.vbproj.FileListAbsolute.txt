@@ -1,0 +1,12 @@
+C:\Users\HENRYELL\Source\Repos\PictureViewer1\PictureViewer1\bin\Debug\PictureViewer1.exe.config
+C:\Users\HENRYELL\Source\Repos\PictureViewer1\PictureViewer1\bin\Debug\PictureViewer1.exe
+C:\Users\HENRYELL\Source\Repos\PictureViewer1\PictureViewer1\bin\Debug\PictureViewer1.pdb
+C:\Users\HENRYELL\Source\Repos\PictureViewer1\PictureViewer1\bin\Debug\PictureViewer1.xml
+C:\Users\HENRYELL\Source\Repos\PictureViewer1\PictureViewer1\obj\Debug\PictureViewer.Form1.resources
+C:\Users\HENRYELL\Source\Repos\PictureViewer1\PictureViewer1\obj\Debug\PictureViewer.Resources.resources
+C:\Users\HENRYELL\Source\Repos\PictureViewer1\PictureViewer1\obj\Debug\PictureViewer1.vbproj.GenerateResource.Cache
+C:\Users\HENRYELL\Source\Repos\PictureViewer1\PictureViewer1\obj\Debug\PictureViewer1.vbproj.CoreCompileInputs.cache
+C:\Users\HENRYELL\Source\Repos\PictureViewer1\PictureViewer1\obj\Debug\PictureViewer1.exe
+C:\Users\HENRYELL\Source\Repos\PictureViewer1\PictureViewer1\obj\Debug\PictureViewer1.xml
+C:\Users\HENRYELL\Source\Repos\PictureViewer1\PictureViewer1\obj\Debug\PictureViewer1.pdb
+C:\Users\HENRYELL\Source\Repos\PictureViewer1\PictureViewer1\obj\Debug\PictureViewer1.vbprojAssemblyReference.cache
