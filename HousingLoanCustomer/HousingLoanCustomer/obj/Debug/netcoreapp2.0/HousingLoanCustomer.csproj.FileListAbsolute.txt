@@ -1,0 +1,11 @@
+C:\temp\C#\HousingLoanCustomer\HousingLoanCustomer\bin\Debug\netcoreapp2.0\HousingLoanCustomer.deps.json
+C:\temp\C#\HousingLoanCustomer\HousingLoanCustomer\bin\Debug\netcoreapp2.0\HousingLoanCustomer.runtimeconfig.json
+C:\temp\C#\HousingLoanCustomer\HousingLoanCustomer\bin\Debug\netcoreapp2.0\HousingLoanCustomer.runtimeconfig.dev.json
+C:\temp\C#\HousingLoanCustomer\HousingLoanCustomer\bin\Debug\netcoreapp2.0\HousingLoanCustomer.dll
+C:\temp\C#\HousingLoanCustomer\HousingLoanCustomer\bin\Debug\netcoreapp2.0\HousingLoanCustomer.pdb
+C:\temp\C#\HousingLoanCustomer\HousingLoanCustomer\obj\Debug\netcoreapp2.0\HousingLoanCustomer.csprojAssemblyReference.cache
+C:\temp\C#\HousingLoanCustomer\HousingLoanCustomer\obj\Debug\netcoreapp2.0\HousingLoanCustomer.csproj.CoreCompileInputs.cache
+C:\temp\C#\HousingLoanCustomer\HousingLoanCustomer\obj\Debug\netcoreapp2.0\HousingLoanCustomer.AssemblyInfoInputs.cache
+C:\temp\C#\HousingLoanCustomer\HousingLoanCustomer\obj\Debug\netcoreapp2.0\HousingLoanCustomer.AssemblyInfo.cs
+C:\temp\C#\HousingLoanCustomer\HousingLoanCustomer\obj\Debug\netcoreapp2.0\HousingLoanCustomer.dll
+C:\temp\C#\HousingLoanCustomer\HousingLoanCustomer\obj\Debug\netcoreapp2.0\HousingLoanCustomer.pdb
